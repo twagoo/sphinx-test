@@ -17,4 +17,9 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-
+Welcome to the CMDI best practices
+===
+Testing build with [readthedocs.org
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODUzNDA3ODE3XX0=
+-->
